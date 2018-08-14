@@ -2,8 +2,12 @@
 
 When you use `ls` on osx(Mac), you can see the ugly list like below.
 
+<img src="https://i.imgur.com/bJ4Z0O0.png" width="50%"></img>
+
 Try **pretty_ls_for_osx**.  
 **pretty_ls_for_osx** provides list which is sorted and highlighted properly.
+
+<img src="https://i.imgur.com/YczLtfx.png" width="50%"></img>
 
 ## How to use
 
