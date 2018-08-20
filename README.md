@@ -11,7 +11,7 @@ Try **pretty_ls_for_osx**.
 
 ## How to use
 
-Open your terminal and excute the command below. Done :)
+Open your terminal and excute the commands below. Done :)
 
 ```
 unalias ll
